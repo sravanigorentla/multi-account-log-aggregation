@@ -1,0 +1,24 @@
+[
+  {
+    "id": "usr-admin-001",
+    "name": "Sravani K.",
+    "email": "admin@cloudtrail.aws",
+    "role": "Cloud Security Admin",
+    "organization": "AWS SecOps Central",
+    "salt": "a9f24c3e80d9f4b1625e1975e52c8a14",
+    "passwordHash": "71ace83c666efc141622e01e19b45853236d8b96e1c01835255684c44bd6ba4c0dc0529329865bfca015c0f57d028fa636a7973f7ded04b6089f4ddc5ee1d890",
+    "createdAt": "2026-01-15T09:00:00Z",
+    "avatarInitials": "SK"
+  },
+  {
+    "id": "usr-sec-002",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@cloudtrail.aws",
+    "role": "Lead Cloud Architect",
+    "organization": "FinTech Cloud Infrastructure",
+    "salt": "a9f24c3e80d9f4b1625e1975e52c8a14",
+    "passwordHash": "71ace83c666efc141622e01e19b45853236d8b96e1c01835255684c44bd6ba4c0dc0529329865bfca015c0f57d028fa636a7973f7ded04b6089f4ddc5ee1d890",
+    "createdAt": "2026-02-10T11:30:00Z",
+    "avatarInitials": "AR"
+  }
+]
